@@ -63,6 +63,8 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 **MODEL CALCULATION:**
 
+![image calci5](https://github.com/dhanushd30032008-wq/5.-VERIFICATION-OF-NORTON-S-THEOREM/blob/b80376af0a7d2de14cace4822ff63437194c393b/ex_5.calci%5B1%5D.pdf)
+
 Practical value of IL (from tabulation 1) =2.3mA
 
 **Verification of Norton’s theorem**
