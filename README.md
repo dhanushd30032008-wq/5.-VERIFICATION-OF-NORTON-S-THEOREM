@@ -56,24 +56,11 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 12.	Theoretically verify the Norton’s theorem.
 
-**TABULAR COLUMN: 1**
-To measure I L
+**TABULAR COLUMN:**
 
-Vi (volts)	IL (amps)
-
-**TABULAR COLUMN:2**
-
-To measure RTh or RN
-
-Vi (volts)	RTh (Ω)
+![image tb5](https://github.com/dhanushd30032008-wq/5.-VERIFICATION-OF-NORTON-S-THEOREM/blob/87b32f795e454cc6ec1b849b1ab99377f3fa4194/ex_5.tb%5B1%5D.pdf)
 
 
-**TABULAR COLUMN:3**
-
-To measure IN or Isc
-
-Vi (volts)	IN (amps)
-	
 **MODEL CALCULATION:**
 
 Practical value of IL (from tabulation 1) =2.3mA
