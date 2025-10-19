@@ -72,6 +72,10 @@ Practical value of IL (from tabulation 1) =2.3mA
 IL = IN * RN / ( RN+ RL ) = 2.43mA
 
 Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
+
+**MARK SPLIT UP:**
+
+![image msu5](https://github.com/dhanushd30032008-wq/5.-VERIFICATION-OF-NORTON-S-THEOREM/blob/5abbd7cfa01f87992c77b2927ed1652bbe3377ef/ex_5.msu%5B1%5D.pdf)
  
 
 
