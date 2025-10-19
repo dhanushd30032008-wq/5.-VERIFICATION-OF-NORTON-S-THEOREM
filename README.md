@@ -24,21 +24,7 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
  
 **CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
 
-**To measure IL**
-
-
-**To measure RTh or RN**
-
-
-
-**To measure IN or Isc**
-
- 
-**Thevenin’s equivalent circuit**
-
-
-**Norton’s equivalent circuit**
-
+![image cd5](https://github.com/dhanushd30032008-wq/5.-VERIFICATION-OF-NORTON-S-THEOREM/blob/45ce424d15ee20dbd0e25a839938c2983d0ee5e5/ex_5.cd%5B1%5D.pdf)
 
 **PROCEDURE:**
 
